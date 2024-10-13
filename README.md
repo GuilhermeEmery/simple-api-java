@@ -12,6 +12,7 @@ Aplicação API
 
 ```sh
 docker compose up --build
+
 ```
 
 ## Testes unitários (validação)
