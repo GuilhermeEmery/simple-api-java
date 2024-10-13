@@ -1,3 +1,5 @@
+name: 01 - Primeiro Workflow
+
 on: push
 
 jobs:
