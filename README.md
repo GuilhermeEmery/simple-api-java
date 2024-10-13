@@ -12,7 +12,6 @@ Aplicação API
 
 ```sh
 docker compose up --build
-
 ```
 
 ## Testes unitários (validação)
@@ -26,3 +25,4 @@ http://localhost:8080/swagger-ui/index.html
 
 ![](/assets/images/swagger.png)
 
+Guilherme Emery
